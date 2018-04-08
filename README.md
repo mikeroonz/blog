@@ -17,3 +17,11 @@ key | task
 -- | --
  P | paste before cursor
  p | paste after cursor
+
+Using pyCharm for python development.
+
+Apache OpenWhisk (serverless platform)
+https://openwhisk.apache.org/
+
+ReactJS
+https://reactjs.org/
